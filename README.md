@@ -10,4 +10,4 @@ Software development
 Math 55
 
 ### Tools and Programming Languages
-C, C++, Assembly
+C, C++, Assembly, vi, Arch
