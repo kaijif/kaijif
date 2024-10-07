@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ## About Me
-I'm Kaiji. Please hire me.
+I'm Kaiji. 
 
 ## Skills
 Software development
